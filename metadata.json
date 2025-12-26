@@ -1,0 +1,9 @@
+{
+  "name": "Two of Us",
+  "description": "A secure, private digital sanctuary for exactly two people, featuring real-time messaging, consent-based location sharing, and an encrypted media vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
